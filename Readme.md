@@ -1,4 +1,4 @@
-# Disclaimer
+# ~ Disclaimer ~
 
 if you accidentaly met this repository, doing a test task for Drum-N-Code, plz, take into account that
 though this solution passes 9 out of 11 test and met their ‘criteria’
