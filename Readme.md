@@ -1,7 +1,23 @@
+# Disclaimer
+
+if you accidentaly met this repository, doing a test task for Drum-N-Code, plz, take into account that
+though this solution passes 9 out of 11 test and met their ‘criteria’
+the response from recruiter was negative – tesk-task failed,
+
+### because:
+
+```shell
+- Порушення базових принципів програмування
+- Рішення не розширюване
+- Містить безліч потенційних багів
+- Світ виступає супер об'єктом
+```
+
+# That’s all folks!
+
 Please write the implementation for the logic described below. Don't try to rush,
 and don't try to polish your solution either. I'd prefer to see a good sane implementation,
 just like you would do that if it was a real task for a real project.
-
 
 # Logic
 
@@ -17,7 +33,6 @@ Household can be connected to Household. The Household which has the Electricity
 also passes it to all the connected Households.
 
 The Power Plant can be repaired after killed.
-
 
 # Our expectations
 
@@ -43,6 +58,5 @@ npm i
 ```shell
 npm test
 ```
-
 
 # Have fun :-)
